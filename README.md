@@ -1,6 +1,3 @@
-# cypress-ui-automation
-Cypress UI Automation Framework using Page Object Model
-
 # Cypress UI Automation Framework
 
 This project demonstrates a Cypress UI automation framework built using **Page Object Model (POM)** best practices.
